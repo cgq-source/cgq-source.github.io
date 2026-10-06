@@ -163,3 +163,4 @@ xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
 ownerdomain=cgq-source.github.io
+vungle.com, 6ac453e932a9df1341025926, DIRECT, c107d686becd2d77
